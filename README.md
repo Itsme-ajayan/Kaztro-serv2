@@ -4,7 +4,7 @@
 <span class="avatar"><img height='330' src="https://i.imgur.com/u76xdWZ.jpeg"> </a></span>
 </p>
   <p align="center">
-<a href="https://github.com/aj-fx"><img title="Author" src="https://img.shields.io/badge/Owner-𝗔𝗝𝗙𝗫-Ajfx/Kaztroserv2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Itsme-ajayan"><img title="Author" src="https://img.shields.io/badge/Owner-𝗔𝗝𝗙𝗫-Ajfx/Kaztroserv2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 <p align="center">
 ᴘʀᴏᴊᴇᴄᴛ ᴍᴏᴅɪғɪᴇᴅ ʙʏ<a href="https://github.com/cyberchekuthan">ᴀͥᴊͭᴀᷤʏᴀͫɴͤ</a>
@@ -24,7 +24,7 @@
 <a href="https://github.com/signup/"><span class="avatar"><img height='50' src="./photo/aj.png" alt="Error"> </a></span>
  
 2. Open the WhatsApp account where you want to create the bot and go into the link device and SCAN the QR
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Aj-fx/Kaztroser?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Itsme-ajayan/Kaztroser?v=1)
   
 3.If You don't have a account in heroku Create a account👇
 <p align="center">
@@ -34,9 +34,9 @@
   click to fork the git into your account click this logo
    
 <p align="center">
- <a href="https://github.com/Aj-fx/Kaztro-serv2/fork"><span class="avatar"><img height='100' src="./photo/appu.png" alt="Error"> </a></span>
+ <a href="https://github.com/Itsme-ajayan/Kaztro-serv2/fork"><span class="avatar"><img height='100' src="./photo/appu.png" alt="Error"> </a></span>
 
-5. Now https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztro-serv2 copy this url and change Aj-fx with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/Itsme-ajayan/Kaztro-serv2 copy this url and change Itsme-ajayan with your github username and click go<br>
 
 ## ᴄʟɪᴄᴋ ɪɴsᴛᴀɢʀᴀᴍ ʟᴏɢᴏ👇
 
@@ -46,18 +46,18 @@
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Aj-fx/Kaztro-serv2">
+  <a href="httsp://github.com/Itsme-ajayan/Kaztro-serv2">
    <p align="center">
-<a href="https://github.com/Aj-fx/Kaztro-serv2/blob/master/plugins/README.md"><span class="avatar"><img height='20' src="https://komarev.com/ghpvc/?username=Aj-fx&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic" alt="Error"> </a></span>
-<a href="https://github.com/Aj-fx/followers">
+<a href="https://github.com/Itsme-ajayan/Kaztro-serv2/blob/master/plugins/README.md"><span class="avatar"><img height='20' src="https://komarev.com/ghpvc/?username=Itsme-ajayan&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic" alt="Error"> </a></span>
+<a href="https://github.com/Itsme-ajayan/followers">
   <p align="center">
-<img src="https://img.shields.io/github/repo-size/Aj-fx/Kaztro-serv2?color=green&label=Repo%20total%20size&style=plastic">
+<img src="https://img.shields.io/github/repo-size/Itsme-ajayan/Kaztro-serv2?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Aj-fx/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/Aj-fx?color=blue&style=flat-square"></a>
-<a href="https://github.com/Aj-fx/Kaztro-serv2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Aj-fx/Kaztro-serv2?color=blue&style=flat-square"></a>
-<a href="https://github.com/Aj-fx/Kaztro-serv2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Aj-fx/Kaztro-serv2?color=blue&style=flat-square"></a>
-<a href="https://github.com/Aj-fx/Kaztro-serv2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Aj-fx/Kaztro-serv2?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Itsme-ajayan/followers"
+<img title="Followers" src="https://img.shields.io/github/followers/Itsme-ajayan?color=blue&style=flat-square"></a>
+<a href="https://github.com/Itsme-ajayan/Kaztro-serv2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Itsme-ajayan/Kaztro-serv2?color=blue&style=flat-square"></a>
+<a href="https://github.com/Itsme-ajayan/Kaztro-serv2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Itsme-ajayan/Kaztro-serv2?color=blue&style=flat-square"></a>
+<a href="https://github.com/Itsme-ajayan/Kaztro-serv2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Itsme-ajayan/Kaztro-serv2?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
@@ -72,9 +72,9 @@
 ## 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥𝗦
   <div align="center">
     
-  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Kaztro-serv2](https://github.com/Aj-fx.png?size=100)](https://github.com/Aj-fx) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![Amal-sir](https://github.com/Amal-ser.png?size=1000)](https://github.com/Amal-ser) 
+  [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![Kaztro-serv2](https://github.com/Itsme-ajayan.png?size=100)](https://github.com/Itsme-ajayan) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![Amal-sir](https://github.com/Amal-ser.png?size=1000)](https://github.com/Amal-ser) 
 ----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [ᴀᴊғx](https://github.com/Aj-fx) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [AMALSER](https://github.com/Amal-ser) 
+[farhan-dqz](https://github.com/farhan-dqz) | [ᴀᴊғx](https://github.com/Itsme-ajayan) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [AMALSER](https://github.com/Amal-ser) 
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
 
