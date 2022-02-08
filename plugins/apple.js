@@ -12,7 +12,7 @@ var wish = ''
 
 let whb = Config.WORKTYPE == 'public' ? false : true
 
-WhatsAlexa.addCommand({pattern: 'bot', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
+WhatsAlexa.addCommand({pattern: 'aj', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
 // send a buttons message! Amalser.
     var plk_say = new Date().toLocaleString('HI', { timeZone: 'Asia/Kolkata' }).split(' ')[1]
 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
